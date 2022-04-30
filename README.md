@@ -1,2 +1,1 @@
-"# Django-Nearby-Places-API" 
-"# Django-Nearby-Places-API" 
+Before using, save your Maps API key as an environment variable called MAPS_API_KEY.
