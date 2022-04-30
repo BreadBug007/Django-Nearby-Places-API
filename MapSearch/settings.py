@@ -125,4 +125,3 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 MAPS_API_KEY = os.environ.get('MAPS_API_KEY')
-print(MAPS_API_KEY)
